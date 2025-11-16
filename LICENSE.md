@@ -1,35 +1,45 @@
-# OpenRed Cryptographic Pattern License (ORCP License)
+# ORCP Dual License (OpenRed Cryptographic Pattern)
 
 Copyright © 2025 Diego Morales Magri
 
-> **Note:** This license applies not only to the software and code, but also to the cryptographic principle and method described in the article “ORCP: OpenRed Cryptographic Pattern” by Diego Morales Magri (2025). Any use, reproduction, or implementation of the described method is subject to the same non-commercial and attribution requirements.
+ORCP (OpenRed Cryptographic Pattern) is distributed under a **dual license model**:
 
-## 1. Permission and Scope
+---
 
-Permission is hereby granted, free of charge, to any person or organization obtaining a copy of this software and associated documentation files (the “Software”), to use, copy, modify, merge, publish, and distribute the Software **for non-commercial purposes only**, subject to the following conditions.
+## 1. OpenRed License (Libre)
 
-## 2. Non-Commercial Use
+When ORCP is used **within the OpenRed project ecosystem** (including OpenRed Mycelian Network, ORMPL, and related official modules):
 
-- The Software may be used, copied, modified, and distributed freely for non-commercial purposes.
-- **Non-commercial use** means any use or distribution that is not intended for or directed towards commercial advantage or monetary compensation.
+- The protocol and its implementations are licensed under a **strict free license** (similar to MIT/Apache 2.0).
+- Permission is granted, free of charge, to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, without restriction.
+- Attribution is required: mention the author’s name (**Diego Morales Magri**) and reference to the “OpenRed License”.
+- A link to the original repository should be included when possible: [https://github.com/DiegoMoralesMagri/ORCP](https://github.com/DiegoMoralesMagri/ORCP).
 
-## 3. Commercial Use
+---
 
-- **Commercial use** of the Software, including but not limited to use in products, services, or projects intended for commercial advantage or monetary compensation, is strictly prohibited without prior written permission from the copyright holder.
-- To obtain permission for commercial use, please contact the copyright holder to negotiate terms and payment.
+## 2. ORCP Standard License (Non-Commercial)
 
-## 4. Attribution and License Reference
+When ORCP is used **outside the OpenRed project ecosystem**:
 
-- You must give appropriate credit by mentioning the author’s name: **Diego Morales Magri**.
-- You must include a reference to this license (“OpenRed Cryptographic Pattern License” or “ORCP License”) in all copies or substantial portions of the Software and in any documentation or publication that uses the Software.
-- If possible, include a link to the original repository: [https://github.com/DiegoMoralesMagri/ORCP](https://github.com/DiegoMoralesMagri/ORCP)
-- For academic use, please cite the original work as follows:
-  > Diego Morales Magri, “ORCP: OpenRed Cryptographic Pattern”, 2025.
+- The **ORCP License** applies (non-commercial use only, attribution required).
+- Commercial use is prohibited without prior written permission from the copyright holder.
+- To obtain permission for commercial use, contact: **[diego@moralesmagri.com]**.
 
-## 5. No Warranty
+---
+
+## 3. Determination of Scope
+
+- **Within OpenRed** means any use directly integrated into the OpenRed ecosystem, repositories, or official forks.  
+- **Outside OpenRed** means any other use, including independent projects, commercial products, or unrelated research.
+
+---
+
+## 4. No Warranty
 
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-## 6. Contact
+---
 
-For commercial licensing inquiries, contact: **[diego@moralesmagri.com]**
+## 5. Contact
+
+For commercial licensing inquiries outside OpenRed: **[diego@moralesmagri.com]**
