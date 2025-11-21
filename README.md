@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17666152.svg)](https://doi.org/10.5281/zenodo.17666152)
 # ORCP: OpenRed Cryptographic Pattern
 
 A Novel Self-Verifiable Graph-Morphology Based Cryptographic System
